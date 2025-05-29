@@ -254,6 +254,7 @@ If this card works with your air purifier, please open a PR and your model to th
 - Dyson Pure Cool/Cool Link/Cool Desk/Cool Link Desk ([using Dyson custom integration](https://github.com/libdyson-wg/ha-dyson))
 - Dyson Pure Humidify+Cool ([using Dyson custom integration](https://github.com/libdyson-wg/ha-dyson))
 - Winix AM90 Wi-Fi Air Purifier
+- Winix 9800 4-Stage True HEPA Air Purifier with WiFi & PlasmaWave® Technology
 - Philips AirPurifier AC3858/50 (partially)
 - SmartMI Air Purifier
 - Ikea Starkvind
